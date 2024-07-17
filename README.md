@@ -3,7 +3,7 @@
 ## Instrutores
 
 [Jônatas Lima de Medeiros](https://github.com/jhony75) - Instrutor responsável<br>
-[Maxlei Marini](https://github.com/) -Instrutor responsável
+[Maxlei Marini](https://github.com/) - Instrutor responsável
 
 ## Sobre o curso
 
@@ -46,7 +46,7 @@
 
 ## 📚 Cursos
 <h1 style="font-size:18px">
-    <a href="https://www.dio.me/">
+    <a href="https://fundacaofat.org.br/">
      <img align="center" width="30px" src="https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-with-type-logo.svg" alt="Salesforce"></a>
     <span> Desenvolvedor de Salesforce - Fundação FAT</span>
 </h1>
